@@ -1,9 +1,9 @@
 # my-cool-project
-It's my first repo!
+It's my first repo! And I love Portal.
 
 I have some thoughts about cake...
 
-Cake is real delicious.
+The cake is a lie.
 
 That is all.
 
